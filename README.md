@@ -10,7 +10,7 @@ Mayuga, Zachary Brent L. <br>
 How to run the cpde? <br>
 1. Download the zip file and unzip on Desktop. <br>
 2. Open Anaconda command prompt. <br>
-3. Go inside the project folder (LBYCPG2_Project) and type the following: <br>
+3. Go inside the project folder (Desktop > LBYCPG2_Project > ToDoList) and type the following: <br>
   > pip install requirements.txt <br>
   > python manage.py runserver <br>
 4. Open the browser and go to http://127.0.0.1:8000/ <br>
