@@ -14,7 +14,9 @@ How to run the cpde? <br>
   > pip install requirements.txt <br>
   > python manage.py runserver <br>
 4. Open the browser and go to http://127.0.0.1:8000/ <br>
-  
+
+# Walk Through
+Youtube Link: https://youtu.be/-tYYSGNK-0s
 
 # Specifications of OS, browser, and Python
 Tested On Windows 10, Google Chrome, Python 3.8.5 Ver <br>
